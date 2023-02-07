@@ -1,6 +1,4 @@
-# algobyte-demo1
-This is the repo for the workshop hosted by algobyte
+# this is the only heading i need 
 
-# this is my first heading
-
-## this is my second heading 
+you make the changes -> stage those changes -> commit those changes -> push those changes
+                            git add                git commit -m ""      git push
